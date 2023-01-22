@@ -1,0 +1,9 @@
+baseURL = "https://www.esubs.cc/"
+languageCode = "en-us"
+title = "eSubs"
+disableHugoGeneratorInject = true
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[params]
+    author = "eSubs"
+    description = "Email Is the Word"
